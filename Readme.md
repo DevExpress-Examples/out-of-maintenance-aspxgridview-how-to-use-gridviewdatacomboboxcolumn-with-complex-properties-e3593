@@ -6,6 +6,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - How to use GridViewDataComboBoxColumn with complex properties 
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e3593/)**
+<!-- run online end -->
 
 
 <p>When GridViewDataComboBoxColumn uses complex properties, it is necessary to define the following properties:<br />
